@@ -1,0 +1,28 @@
+body {background-color: black;
+color: yellow;
+max-width: 900px;
+margin: auto;
+}
+p {
+    text-align: center;
+    color: yellow;
+  }
+  div p {
+    background-color: black;
+  }
+
+header {
+    margin: 35px 0;
+    margin-left: 50px;
+    font-size: larger;
+    text-align: center;
+}
+a {
+    color: aquamarine;
+}
+
+section {
+    background-image: url(https: //pic .sum .photos/ 900px / 600px;) ;
+    text-align: center;
+
+}
